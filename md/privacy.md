@@ -22,8 +22,23 @@ Fælles for alle udbyderne er at de kune kan se at du logger ind. Derefter deler
 
 
 
+### Hvem kan se dine data?
+
+* Når du er administrator for en forening, kan andre administratorer for den samme forening se dine kontakt-informationer.
+
+* Dine kontakt-oplysninger er kun tilgængelige for [bestyrelsen](https://kulturnatten6400.dk/bestyrelsen/)
+og enkelte andre relevante personer tilknyttet [Foreningen for Kultur- og Idrætsnatten i Sønderborg](https://kulturnatten6400.dk/bestyrelsen/).
+
+* Vi vidergiver IKKE dine oplysninger til andre.
+
+* Alle informationer vi har om dig kan ses i detaljer [her](/dine-data)
+
+
+
+
+
 ### Hvor ligger dine data?
-Data ligger hos forskellige udbydere, som i princippet vil kunne se dine data:
+Data ligger hos forskellige udbydere, afhængig af hvilke type data der er tale om:
 
 * Dine data ligger på den europæiske platform hos [auth0.com](https://auth0.com), som også håndterer login-functionen for os.\
 
@@ -41,21 +56,6 @@ Data ligger hos forskellige udbydere, som i princippet vil kunne se dine data:
         Skal du have en parkerings-tilladelse, skal dine kort-informationer gemmes hos Stripe, da vi først lave fakturaen og hævet gebeyret når  tilladelsen godkendes.
 
 * Serveren som kører [HTTP_HOST](https://HTTP_HOST) ligger hos [Hetzner](https://hetzner.cloud) i Tyskland.
-
-
-
-
-
-### Hvem kan elles se dine data?
-
-* Når du er administrator for en forening, kan andre administratorer for den samme forening se dine kontakt-informationer.
-
-* Dine kontakt-oplysninger er kun tilgængelige for [bestyrelsen](https://kulturnatten6400.dk/bestyrelsen/)
-og enkelte andre relevante personer tilknyttet [Foreningen for Kultur- og Idrætsnatten i Sønderborg](https://kulturnatten6400.dk/bestyrelsen/).
-
-* Vi vidergiver IKKE dine oplysninger til andre.
-
-* Alle informationer vi har om dig kan ses i detaljer [her](/dine-data)
 
 
 
