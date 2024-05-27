@@ -35,6 +35,14 @@ Data ligger hos forskellige udbydere, som i princippet vil kunne se dine data:
 
 * SMS'er til bekræftelse af mobil-numre sendes via [BulkSMS.com](https://bulksms.com), som er et Sydafrikansk / Engelsk firma.
 
+* Eventuelle betalings-informationer håndteres via [Stripe.Com](https://stripe.com).
+
+  * Vi kan ikke se detaljerne for dit kort, de nødvendige informationer ligger i dine kunde-profil hos [Stripe.Com](https://stripe.com). 
+
+  * Hvis du har fået en faktura der skal betales, genereres den via [Stripe.Com](https://stripe.com), og skal betales med en kort-betaling, for at reducere arbejds-byrden for Kulturnattens kasserer.
+
+  * Skal du have en parkerings-tilladelse, skal dine kort-informationer gemmes hos Stripe, da vi først lave fakturaen og hævet gebeyret når  tilladelsen godkendes.
+
 * Serveren som kører [HTTP_HOST](https://HTTP_HOST) ligger hos [Hetzner](https://hetzner.cloud) i Tyskland.
 
 
@@ -56,7 +64,7 @@ og enkelte andre relevante personer tilknyttet [Foreningen for Kultur- og Idræt
 
 
 
-## Kan jeg få slettet mine data?
+## Kan du få slettet dine data?
 Selvfølgelig.
 
 Men dermed kan din forening heller ikke deltage i Kulturnatten, med mindre du finder en anden til at administrerer foreningens data.
